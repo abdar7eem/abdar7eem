@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="left">Hello👋, I'm Abd Al-rheem from Palestine.</h1>
 
-<!--
-**abdar7eem/abdar7eem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I really enjoy learning languages like JAVA, C, C++, HTML, CSS as well as working in Data Bases.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨20 years old <br>📚 studying computer science at birzeit university...<br>🎯 Goals:  Stay Updated with Industry Trends<br>🧑‍💻 High skills in Data Structer</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/java-svgrepo-com.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/language-xml-svgrepo-com.svg" height="40" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/html-5-svgrepo-com.svg" height="40" alt="HTML logo"  />
+  <img width="12" />
+  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/css-3-svgrepo-com.svg" height="40" alt="CSS logo"  />
+  <img width="12" />
+  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/language-xml-svgrepo-com.svg" height="40" alt="C logo"  />
+  <img width="12" />
+</div>
+
+###
