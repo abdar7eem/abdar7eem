@@ -19,15 +19,15 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/java-svgrepo-com.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/language-xml-svgrepo-com.svg" height="40" alt="C++ logo"  />
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/java-svgrepo-com.svg" height="40" alt="JAVA logo"  />
   <img width="12" />
   <img src="https://github.com/abdar7eem/abdar7eem/blob/main/html-5-svgrepo-com.svg" height="40" alt="HTML logo"  />
   <img width="12" />
   <img src="https://github.com/abdar7eem/abdar7eem/blob/main/css-3-svgrepo-com.svg" height="40" alt="CSS logo"  />
   <img width="12" />
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/language-xml-svgrepo-com.svg" height="40" alt="C logo"  />
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/icons8-c%2B%2B%20(1).svg" height="40" alt="C++ logo"  />
+  <img width="12" />
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/128px-C_Programming_Language.svg.png" height="40" alt="C logo"  />
   <img width="12" />
 </div>
 
