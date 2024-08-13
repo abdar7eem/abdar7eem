@@ -19,15 +19,15 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/java-svgrepo-com.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/java-svgrepo-com.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/language-xml-svgrepo-com.svg" height="40" alt="C++ logo"  />
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/language-xml-svgrepo-com.svg" height="40" alt="C++ logo"  />
   <img width="12" />
-  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/html-5-svgrepo-com.svg" height="40" alt="HTML logo"  />
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/html-5-svgrepo-com.svg" height="40" alt="HTML logo"  />
   <img width="12" />
-  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/css-3-svgrepo-com.svg" height="40" alt="CSS logo"  />
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/css-3-svgrepo-com.svg" height="40" alt="CSS logo"  />
   <img width="12" />
-  <img src="https://github.com/abdar7eem/Data-Structure/blob/main/language-xml-svgrepo-com.svg" height="40" alt="C logo"  />
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/language-xml-svgrepo-com.svg" height="40" alt="C logo"  />
   <img width="12" />
 </div>
 
