@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://github.com/abdar7eem/abdar7eem/blob/main/128px-C_Programming_Language.svg.png" height="40" alt="C logo"  />
   <img width="12" />
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/Linux.png" height="40" alt="C logo"  />
+  <img width="12" />
 </div>
 
 ###
