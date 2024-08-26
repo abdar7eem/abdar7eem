@@ -8,7 +8,7 @@
 ### 
 -->
 
-<img src="https://github.com/abdar7eem/abdar7eem/blob/main/github-header.png" height="40" alt="github-header"  />
+<img src="https://github.com/abdar7eem/abdar7eem/blob/main/github-header.png" width="1000px" hight="200px" alt="github-header"  />
 
 <h2 align="left">About me</h2>
 
