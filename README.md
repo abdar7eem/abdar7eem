@@ -35,7 +35,9 @@
 
 ###
 
-![](https://github.com/abdar7eem/abdar7eem/blob/main/coding.gif)
+<p align="center">
+  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/coding.gif" alt="animated" />
+</p>
 
 
 ###
