@@ -1,4 +1,4 @@
-<!--
+
 <h1 align="left">Hello👋, I'm Abd Al-rheem from Palestine.</h1>
 
 ###
@@ -6,10 +6,10 @@
 <p align="left">I really enjoy learning languages like JAVA, C, C++, HTML, CSS as well as working in Data Bases.</p>
 
 ### 
--->
 
+<!--
 <img src="https://github.com/abdar7eem/abdar7eem/blob/main/github-header.png" width="1000px" hight="200px" alt="github-header"  />
-
+-->
 <h2 align="left">About me</h2>
 
 ###
