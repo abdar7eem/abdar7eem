@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨20 years old <br>📚 studying computer science at birzeit university...<br>🎯 Goals:  Stay Updated with Industry Trends<br>🧑‍💻 High skills in Data Structer</p>
+<p align="left">✨20 years old <br>📚 studying computer science at birzeit university...<br>🎯 Goals:  Stay Updated with Industry Trends<br>🧑‍💻 High skills in Data structures and Algorithms</p>
 
 ###
 
