@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="C logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" height="40" alt="C logo"  />
+  <img width="12" />
 </div>
 
 ###
