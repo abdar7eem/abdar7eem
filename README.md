@@ -35,6 +35,8 @@
   <img width="12" />
   <img src="https://github.com/abdar7eem/abdar7eem/blob/main/Linux.png" height="40" alt="C logo"  />
   <img width="12" />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="C logo"  />
+  <img width="12" />
 </div>
 
 ###
