@@ -9,9 +9,6 @@
 
 ### 
 
-<!-- Header Image (optional, uncomment if you want to use) -->
-<!-- <img src="https://github.com/abdar7eem/abdar7eem/blob/main/github-header.png" width="1000px" height="200px" alt="github-header" /> -->
-
 <h2 align="left">About me</h2>
 
 ###
@@ -69,20 +66,25 @@
   <img width="12" />
 </div>
 
-###
-
 <h2 align="left">Portfolio Website</h2>
 
 ###
 
 <p align="left">
-  🌐 Check out my work and projects here:  
-  <a href="https://resplendent-banoffee-ccab3d.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-3A5B22?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="portfolio link" />
+  🌐 Explore my personal projects, case studies, and experiments in web & mobile development.  
+</p>
+
+<p align="left">
+  🔗 Portfolio: <br>
+  <a href="https://your-portfolio-link.com" target="_blank">https://your-portfolio-link.com</a>
+</p>
+
+<p align="left">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-3A5B22?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio button" />
   </a>
 </p>
 
-###
 
 ###
 
