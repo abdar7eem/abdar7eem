@@ -76,11 +76,10 @@
 
 <p align="left">
   🔗 Portfolio: <br>
-  <a href="https://your-portfolio-link.com" target="_blank">https://your-portfolio-link.com</a>
 </p>
 
 <p align="left">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://resplendent-banoffee-ccab3d.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-3A5B22?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio button" />
   </a>
 </p>
