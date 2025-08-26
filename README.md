@@ -71,6 +71,21 @@
 
 ###
 
+<h2 align="left">Portfolio Website</h2>
+
+###
+
+<p align="left">
+  🌐 Check out my work and projects here:  
+  <a href="https://resplendent-banoffee-ccab3d.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-3A5B22?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="portfolio link" />
+  </a>
+</p>
+
+###
+
+###
+
 <p align="center">
   <img src="https://github.com/abdar7eem/abdar7eem/blob/main/coding.gif" alt="animated" />
 </p>
