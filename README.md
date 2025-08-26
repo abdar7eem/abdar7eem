@@ -43,9 +43,11 @@
   <img width="12" />
   <img src="https://github.com/abdar7eem/abdar7eem/blob/main/css-3-svgrepo-com.svg" height="40" alt="CSS logo" />
   <img width="12" />
+  <img src="https://camo.githubusercontent.com/849dd3e05b480b650e4416ce157e91d60d60c822f8706e42dca2943993d71270/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" height="40" alt="CSS logo" />
+  <img width="12" />
 
   <!-- Frameworks -->
-  <img src="https://www.svgrepo.com/show/353884/flutter.svg" height="40" alt="Flutter logo" />
+  <img src="https://camo.githubusercontent.com/2167e144b868512a0723b3556c44410b6fb52a0e569ef5f2768232b8b705c649/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" height="40" alt="Flutter logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354259/react.svg" height="40" alt="React logo" />
   <img width="12" />
