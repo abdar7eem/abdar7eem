@@ -79,7 +79,7 @@
 </p>
 
 <p align="left">
-  <a href="https://resplendent-banoffee-ccab3d.netlify.app/" target="_blank">
+  <a href="abdar7eem.me" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-3A5B22?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio button" />
   </a>
 </p>
