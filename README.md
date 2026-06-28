@@ -1,104 +1,179 @@
-<h1 align="left">Hello World 👋, I'm Abd Al-rheem from Palestine.</h1>
+<h1 align="center">Hello World 👋, I'm Abd Al-rheem Yaseen</h1>
 
-###
-
-<p align="left">
-  I’m a passionate Computer Science student who loves exploring and building with modern technologies.  
-  I enjoy working with <strong>Java, C, C++, HTML, CSS</strong> and continuously expanding my skills in <strong>databases, mobile, and web development</strong>.
-</p>
-
-### 
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-✨ 22 years old <br>
-📚 Studying Computer Science at Birzeit University <br>
-🎯 Goal: Stay Updated with Industry Trends <br>
-🧩 Strong in Problem-Solving & Data Structures <br>
-💡 Passionate about Web, Mobile & Cross-Platform App Development <br>
-🚀 Always eager to learn new technologies and frameworks
-</p>
-
-###
-
-<h2 align="left">Tools and Technology</h2>
-
-###
-
-<div align="left">
-  <!-- Languages -->
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/java-svgrepo-com.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/icons8-c%2B%2B%20(1).svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/128px-C_Programming_Language.svg.png" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/html-5-svgrepo-com.svg" height="40" alt="HTML logo" />
-  <img width="12" />
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/css-3-svgrepo-com.svg" height="40" alt="CSS logo" />
-  <img width="12" />
-
-  <!-- Frameworks -->
-  <img src="https://www.svgrepo.com/show/353751/flutter.svg" height="40" alt="Flutter logo" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354259/react.svg" height="40" alt="React logo" />
-  <img width="12" />
-
-  <!-- Platforms & Tools -->
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/Linux.png" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="40" alt="Android logo" />
-  <img width="12" />
-</div>
-
-<h2 align="left">Portfolio Website</h2>
-
-###
-
-<p align="left">
-  🌐 Explore my personal projects, case studies, and experiments in web & mobile development.  
-</p>
-
-<p align="left">
-  🔗 Portfolio: <br>
-</p>
-
-<p align="left">
-  <a href="https://www.abdar7eem.me" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-3A5B22?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="portfolio button" />
-  </a>
-</p>
-
-
-###
+<h3 align="center">
+Full-Stack Developer • Mobile Developer • Banking Systems Officer
+</h3>
 
 <p align="center">
-  <img src="https://github.com/abdar7eem/abdar7eem/blob/main/coding.gif" alt="animated" />
+Passionate about building scalable web, mobile, and backend applications using modern technologies.
 </p>
 
-###
+<p align="center">
+  <a href="https://www.abdar7eem.me">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-3A5B22?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
-<div align="center">
-  <a href="https://www.instagram.com/abd.alr7eem/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <a href="https://github.com/abdar7eem">
+    <img src="https://img.shields.io/github/followers/abdar7eem?label=GitHub&style=for-the-badge"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100003944166987" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-  <a href="mailto:abdar7eem04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=AbdAlr7eem&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 B.A. in Computer Science – Birzeit University
+- 💼 Banking Systems Officer at Palestine Islamic Bank
+- 📱 Former Flutter Developer Intern at Dimensions Infotech
+- 🌍 Based in Palestine
+- 🚀 Passionate about Full-Stack Development
+- 📚 Constantly learning modern technologies and software architecture
+- ⚡ Interested in scalable systems, backend development, cloud technologies, and mobile applications.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,cs,python,dart,js,ts,php" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,fastapi" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,figma" />
+</p>
+
+---
+
+# 💼 Professional Experience
+
+## 🏦 Banking Systems Officer | Release Manager
+**Palestine Islamic Bank**  
+
+Responsible for maintaining mission-critical banking systems while managing software release processes across multiple environments.
+
+### Key Responsibilities
+
+- Monitor and support core banking systems to ensure high availability and reliability.
+- Troubleshoot application and database issues using SQL and system logs.
+- Coordinate end-to-end software releases from UAT to Production.
+- Plan deployment schedules and manage release windows.
+- Work closely with Development, QA, Infrastructure, and Business teams.
+- Verify deployment success through post-release validation and monitoring.
+- Maintain release documentation and deployment procedures.
+- Support system upgrades, patches, and production incident resolution.
+
+---
+
+## 📱 Flutter Developer Intern
+**Dimensions Infotech**
+
+- Developed responsive Flutter applications.
+- Integrated REST APIs.
+- Improved performance through debugging and optimization.
+- Collaborated within Agile development teams.
+
+---
+
+# 📜 Certifications
+
+🏆 Flutter Development Certificate
+
+🏆 Problem Solving Level 2
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdar7eem&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdar7eem&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdar7eem&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Portfolio
+
+Visit my portfolio to explore my projects and case studies.
+
+### 🔗 https://www.abdar7eem.me
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+
+<a href="https://www.abdar7eem.me">
+<img src="https://img.shields.io/badge/Portfolio-3A5B22?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/abdar7eem">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:abdar7eem04@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/abd.alr7eem/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github.com/abdar7eem/abdar7eem/blob/main/coding.gif"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+</h3>
