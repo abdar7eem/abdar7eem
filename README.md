@@ -110,24 +110,6 @@ Responsible for maintaining mission-critical banking systems while managing soft
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdar7eem&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdar7eem&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdar7eem&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
 # 🌐 Portfolio
 
 Visit my portfolio to explore my projects and case studies.
